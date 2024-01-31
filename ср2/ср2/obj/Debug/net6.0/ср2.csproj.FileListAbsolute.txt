@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/ср2/ср2/bin/Debug/net6.0/ср2
+/Users/kleshny/Projects/ср2/ср2/bin/Debug/net6.0/ср2.deps.json
+/Users/kleshny/Projects/ср2/ср2/bin/Debug/net6.0/ср2.runtimeconfig.json
+/Users/kleshny/Projects/ср2/ср2/bin/Debug/net6.0/ср2.dll
+/Users/kleshny/Projects/ср2/ср2/bin/Debug/net6.0/ср2.pdb
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.AssemblyInfo.cs
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.dll
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/refint/ср2.dll
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.pdb
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ср2.genruntimeconfig.cache
+/Users/kleshny/Projects/ср2/ср2/obj/Debug/net6.0/ref/ср2.dll
